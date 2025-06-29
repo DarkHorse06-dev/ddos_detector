@@ -1,0 +1,8 @@
+*.pkl
+*.png
+*.csv
+__pycache__/
+*.log
+results/
+samples/
+*.txt
