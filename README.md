@@ -59,7 +59,7 @@ ddos_detector/
 - Linux / Windows / macOS
 
 ### ✅ Clone This Repository
-git clone https://github.com/YOUR_USERNAME/ddos_detector.git
+git clone [https://github.com/YOUR_USERNAME/ddos_detector.git](https://github.com/DarkHorse06-dev/ddos_detector.git)
 cd ddos_detector
 
 🛠️ Install Dependencies
